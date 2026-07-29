@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/project_banner.png" width="100%" alt="Diabetes Risk Classification Using Machine Learning">
+  <img src="assets/IMG1.png" width="100%" alt="Diabetes Risk Classification Using Machine Learning">
 </p>
 
 <h1 align="center">Diabetes Risk Classification Using Machine Learning</h1>
