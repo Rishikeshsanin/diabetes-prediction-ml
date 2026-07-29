@@ -45,7 +45,7 @@ The project goes beyond basic model training by focusing on:
 ## Project Workflow
 
 <p align="center">
-  <img src="assets/project_workflow.png" width="100%" alt="Machine Learning Project Workflow">
+  <img src="assets/IMG1.2.png" width="100%" alt="Machine Learning Project Workflow">
 </p>
 
 The workflow includes:
@@ -173,7 +173,7 @@ selected as the final model.
 ## Final Model Performance
 
 <p align="center">
-  <img src="assets/final_model_snapshot.png" width="100%" alt="Final Model Performance">
+  <img src="assets/IMG1.3.png" width="100%" alt="Final Model Performance">
 </p>
 
 The selected Logistic Regression model was evaluated on the untouched test set.
