@@ -208,7 +208,7 @@ as proof of medical causation.
 
 ## Repository Structure
 
-```text
+
 diabetes-prediction-ml/
 │
 ├── assets/
@@ -222,3 +222,13 @@ diabetes-prediction-ml/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Rishikeshsanin/diabetes-prediction-ml.git
+cd diabetes-prediction-ml
